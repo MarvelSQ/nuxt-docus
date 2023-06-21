@@ -10,8 +10,8 @@ export default defineAppConfig({
     github: {
       dir: '.starters/default/content',
       branch: 'main',
-      repo: 'docus',
-      owner: 'nuxt-themes',
+      repo: 'nuxt-docus',
+      owner: 'MarvelSQ',
       edit: true
     },
     aside: {
